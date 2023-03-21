@@ -1,6 +1,6 @@
 
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-## My name is Vüsal
+# I'm Vüsal
 # I'm Frontend Developer
 <div id="badges" align="center">
     <a href="https://www.facebook.com/vslrzy/">
