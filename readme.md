@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/vslrzy/">
         <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram-logo"/>
     </a>
-    <a href="https://www.linkedin.com/in/v%C3%BCsal-rzayev-055551211/">
+    <a href="https://www.linkedin.com/in/vslrzy/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin-logo" />
     </a>
 </div>
