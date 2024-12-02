@@ -6,7 +6,7 @@
     <a href="https://www.facebook.com/vslrzy">
         <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="facebook-logo"/>
     </a>
-    <a href="https://t.me/vusalvl">
+    <a href="https://t.me/vslrzy">
         <img src="https://img.shields.io/badge/Telegram-gray?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram-logo"/>
     </a>
     <a href="https://www.instagram.com/vslrzy/">
